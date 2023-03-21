@@ -1,0 +1,11 @@
+---
+id: test-page
+type: page
+
+title: Test Page
+description: Some short description of $this.title
+---
+
+# $this.title
+
+$this.description
